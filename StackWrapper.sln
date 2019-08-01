@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackWrapper", "StackWrapper\StackWrapper.csproj", "{B949BD7D-C943-4522-A410-1CF2EE0D9F31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B949BD7D-C943-4522-A410-1CF2EE0D9F31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B949BD7D-C943-4522-A410-1CF2EE0D9F31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B949BD7D-C943-4522-A410-1CF2EE0D9F31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B949BD7D-C943-4522-A410-1CF2EE0D9F31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {858BC696-ECE7-426B-9D38-7893F61687E3}
+	EndGlobalSection
+EndGlobal
